@@ -1,4 +1,4 @@
-# End-to-End MLOps Pipeline (Dockerized, SageMaker-Ready)
+# End-to-End MLOps Pipeline (Dockerized)
 
 ## Overview
 
