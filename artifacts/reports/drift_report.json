@@ -1,0 +1,7 @@
+{
+  "model_version": "20260124-111231",
+  "drift_method": "psi",
+  "drift_score": 0.08293730617171378,
+  "threshold": 0.2,
+  "retrain_recommended": false
+}

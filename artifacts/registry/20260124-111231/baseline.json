@@ -1,0 +1,9 @@
+{
+  "n": 1187,
+  "label_counts": {
+    "sci.space": 593,
+    "rec.autos": 594
+  },
+  "avg_text_len": 991.8357203032856,
+  "data_hash": "9fd5c0818698ef9b789a2ed4290439341dbb28205cab9110b8a34fe6db43f1ed"
+}

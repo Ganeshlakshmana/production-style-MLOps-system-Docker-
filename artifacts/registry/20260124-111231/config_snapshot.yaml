@@ -1,0 +1,10 @@
+data:
+  categories:
+  - sci.space
+  - rec.autos
+  dataset: 20newsgroups
+model:
+  max_iter: 200
+  type: logistic_regression
+registry:
+  promote_threshold_f1: 0.85
